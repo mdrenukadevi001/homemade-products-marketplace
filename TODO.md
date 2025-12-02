@@ -1,0 +1,6 @@
+- [x] Add necessary imports at the top of App.js
+- [x] Add function App() wrapper with state and hooks
+- [x] Remove stray JSX block and semicolon
+- [x] Wrap the return statement inside the function
+- [x] Add closing brace and export default App
+- [ ] Test the app to ensure it compiles without errors
